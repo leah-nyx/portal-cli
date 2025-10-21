@@ -1,11 +1,12 @@
 #include <iostream>
 
-namespace PortalCli
-{
-    int main()
-    {
-        std::cout << "hello world" << std::endl;
+#include <portal-cli/player.h>
 
-        return 0;
-    }
+int main()
+{
+    std::cout << "hello world" << std::endl;
+
+    PortalCli::Player::PlaySound();
+
+    return 0;
 }
