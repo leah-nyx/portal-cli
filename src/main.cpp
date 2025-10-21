@@ -1,8 +1,11 @@
 #include <iostream>
 
-int main()
+namespace PortalCli
 {
-    std::cout << "hello world" << std::endl;
+    int main()
+    {
+        std::cout << "hello world" << std::endl;
 
-    return 0;
+        return 0;
+    }
 }
