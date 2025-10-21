@@ -13,6 +13,9 @@ set(CMAKE_INSTALL_PREFIX "/usr/local/bin/")
 add_executable(portal-cli
      ${CMAKE_CURRENT_SOURCE_DIR}/src/main.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/src/player.cpp
+     ${CMAKE_CURRENT_SOURCE_DIR}/src/sound-manager.cpp
+     ${CMAKE_CURRENT_SOURCE_DIR}/src/text-manager.cpp
+     ${CMAKE_CURRENT_SOURCE_DIR}/src/manager.cpp
 )
 
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include
