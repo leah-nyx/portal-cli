@@ -1,0 +1,4 @@
+- [ ] Download all audio files for portal one and portal two
+- [ ] Figure out how to print text with color
+- [ ] Figure out how to print text char-by-char
+- [ ] Figure out how to print at the same speed as the corresponding .wav files
