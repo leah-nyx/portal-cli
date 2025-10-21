@@ -1,4 +1,7 @@
 - [ ] Plan out structure of everything
+- [ ] Set up formatting (.clang-tidy)
+- [ ] Create rest of bools for characters in argument-handler
+- [ ] Set up argument-handler
 - [ ] Download all audio files for portal one and portal two
 - [ ] Figure out how to print text with color
 - [ ] Figure out how to print text char-by-char
