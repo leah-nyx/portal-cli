@@ -6,6 +6,6 @@ namespace PortalCli
     {
         public:
 
-        
-    }   
+
+    }
 }
