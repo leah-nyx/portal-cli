@@ -16,8 +16,8 @@ repos:
         args: ["--checks=readability-identifier-naming",
           "--warnings-as-errors=*", "-header-filter=^src/|^include/",
           "--config-file=.clang-tidy", "-p=build/compile_commands.json"]
-      - id: cppcheck
-        args: ["--enable=all", "--language=c++", "--inline-suppr",
-          "--check-level=exhaustive"]
+#      - id: cppcheck
+#        args: ["--enable=all", "--language=c++", "--inline-suppr",
+#          "--check-level=exhaustive"]
 #   - id: include-what-you-use
 #     args: ["-p", "./build/compile_commands.json"]

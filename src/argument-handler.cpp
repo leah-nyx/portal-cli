@@ -2,8 +2,6 @@
 
 namespace PortalCli
 {
-    void ArgumentHandler::HandleArguments
-    {
-
-    }
-}
+    void ArgumentHandler::HandleArguments(std::vector<std::string> arguments) {
+    };
+} // namespace PortalCli

@@ -4,8 +4,6 @@ namespace PortalCli
 {
     class Manager
     {
-        public:
-
-
-    }
-}
+    public:
+    };
+} // namespace PortalCli

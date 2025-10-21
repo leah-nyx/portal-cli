@@ -4,9 +4,7 @@ namespace PortalCli
 {
     class Player
     {
-        public:
-
+    public:
         static void PlaySound();
-
     };
-}
+} // namespace PortalCli
