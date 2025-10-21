@@ -1,6 +1,3 @@
 --
-# ignore external libraries
-lib/
-
 # ignore CMake build directory
 build/
