@@ -2,5 +2,8 @@
 
 namespace PortalCli
 {
-    
+    void ArgumentHandler::HandleArguments
+    {
+        
+    }
 }
