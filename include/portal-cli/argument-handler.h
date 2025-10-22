@@ -16,7 +16,7 @@ namespace PortalCli
         bool _dialogueOnly {true};
         bool _includeBetaLines {false};
         bool _includeUnusedLines {false};
-        bool _turretLines {false};
-        bool _gladosLines {true};
+        // bool _turretLines {false};
+        // bool _gladosLines {true};
     };
 } // namespace PortalCli
